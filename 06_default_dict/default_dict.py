@@ -9,3 +9,5 @@ for i,x in enumerate(range(1000)):
 
     if k not in results.keys():
         results[k] = []
+
+print(results)
