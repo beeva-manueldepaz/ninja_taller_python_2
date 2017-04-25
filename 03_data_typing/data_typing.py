@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # Mypy
-
+from typing import List
 
 # def suma(a, b) -> válido pero confuso
 
